@@ -1,6 +1,6 @@
 # Certifications Claude : Anthropic Partner Network
 
-BusinessDigital.fr est membre du Claude Partner Network d'Anthropic. En tant que partenaire enregistré, nous pouvons inscrire des candidats aux 4 certifications professionnelles Claude, supervisées par Pearson VUE.
+BusinessDigital.fr est membre du Claude Partner Network d'Anthropic. En tant que partenaire enregistré, nous pouvons inscrire des candidats aux 4 certifications professionnelles Claude, réservées aux membres du programme.
 
 ## Les 4 certifications
 
@@ -11,14 +11,14 @@ BusinessDigital.fr est membre du Claude Partner Network d'Anthropic. En tant que
 
 ## Conditions d'examen
 
-- Supervisé par Pearson VUE (en ligne ou en centre)
+- Examen en ligne, directement sur la plateforme Anthropic
 - Durée : 120 minutes
 - Score de réussite : 720/1000
 - Validité : 12 mois
 
 ## Pourquoi passer par BusinessDigital.fr ?
 
-Certains organismes facturent un abonnement trimestriel (149 $/trimestre) juste pour accéder aux inscriptions. Chez nous, c'est gratuit. Vous ne payez que les frais d'examen directement à Anthropic/Pearson VUE.
+Certains organismes facturent un abonnement trimestriel (149 $/trimestre) juste pour accéder aux inscriptions. Chez nous, c'est gratuit. Vous ne payez que les frais d'examen directement à Anthropic.
 
 En plus, vous pouvez vous préparer gratuitement sur notre académie : https://businessdigital.fr/academie
 
